@@ -8,7 +8,7 @@ a.header-top{
 a.header-top span{
   color: white;
 }
-header.header-top{
+.header-top{
   width: 100%;
   height: 75px;
   background-color: black;
