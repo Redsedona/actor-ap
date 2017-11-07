@@ -1,9 +1,12 @@
 body{
   background-color: white;
 }
-a.header-home{
+a.header-top{
   color: white;
   font-size: 24px;
+}
+a.header-top span{
+  color: white;
 }
 header.header-top{
   width: 100%;
